@@ -1,0 +1,37 @@
+DHRUV MORE:
+
+Define the overall project scope and goals.
+Coordinate the work of the team.
+Manage communication and ensure everyone is on the same page.
+Help with decision-making and problem-solving.
+Oversee the project timeline and ensure deadlines are met.
+
+DIYWANI WADHWANI:
+
+Create the extension's core functionality.
+Write code in JavaScript or TypeScript.
+Implement new features and user interface improvements.
+Test the extension thoroughly and fix any bugs.
+Ensure the code follows best practices.
+
+PRAVJYA MESHRAM:
+
+Test the extension's functionality in different scenarios.
+Create and maintain a suite of test cases.
+Report and document any issues or bugs.
+Verify that the extension works as expected in various use cases.
+Ensure the extension is user-friendly.
+
+PRAJAKTA TAJNE:
+
+Manage the packaging and publishing of the extension.
+Create the package.json file with extension metadata.
+Use the "vsce" tool to package the extension.
+Publish the extension to the Visual Studio Code Marketplace.
+Handle version updates and bug fixes.
+
+RIYA WAGHMARE:
+
+Create documentation for the extension, including a README file.
+Manage a GitHub repository for the extension.
+Update documentation based on user feedback and changes.
